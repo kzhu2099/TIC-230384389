@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+.DS_Store
+
+tess_cache/
+
+output/
+
+zenodo/
+paper/
